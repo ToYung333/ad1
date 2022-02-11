@@ -1,18 +1,6 @@
 {
-  "content": "⚪ ANTI APE ASSOCIATION PRESALE IS LIVE ⚪",
-  "embeds": [
-    {
-      "title": "⚪ ANTI APE ASSOCIATION PRESALE IS LIVE ⚪",
-      "description": "⚪ ANTI APE ASSOCIATION PRESALE IS LIVE ⚪",
-      "url": "https://i.imgur.com/9UpvkqJ.gif",
-      "color": 16777215,
-      "author": {
-        "name": "⚪ ANTI APE ASSOCIATION PRESALE IS LIVE ⚪",
-        "url": "https://i.imgur.com/9UpvkqJ.gif"
-      },
-      "footer": {
-        "text": "⚪ ANTI APE ASSOCIATION PRESALE IS LIVE ⚪"
-      }
-    }
-  ]
+	"author_name":"⚪ ANTI APE ASSOCIATION PRESALE IS LIVE ⚪",
+	"author_url":"https://mint.antiapeassociation.club/",
+	"provider_name":"Repost from the official community - ANTI APE ASSOCIATION",
+	"provider_url":"https://discord.com/invite/anti-ape"
 }
